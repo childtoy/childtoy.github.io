@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://childtoy.github.io" # the base hostname & protocol for your site
 
 # Sidebar settings
+avatar: https://github.com/childtoy/childtoy.github.io/blob/master/picture.jpg
 description: Taehyun Byun 
 
 # Social icons
